@@ -1,0 +1,18 @@
+/* mybabes.org styles */
+:root {
+    --primary: #ff6b6b;
+    --bg: #1a1a2e;
+    --text: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: Arial, sans-serif;
+}
